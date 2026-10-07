@@ -1,0 +1,3 @@
+import {searchJournals} from "@/lib/journal-service";
+import type {JournalScope} from "@/lib/journal-types";
+export async function GET(request:Request){const u=new URL(request.url);const q=(u.searchParams.get("q")||"").trim();const y=Number(u.searchParams.get("year")||2025);try{return Response.json(await searchJournals(q,y,u.searchParams.get("kind")||undefined,(u.searchParams.get("scope")||"all") as JournalScope,Number(u.searchParams.get("offset")||0)),{headers:{"Cache-Control":"private, max-age=300","X-Content-Type-Options":"nosniff"}});}catch(e){return Response.json({error:e instanceof Error?e.message:"Pemeriksaan belum berhasil."},{status:400,headers:{"Cache-Control":"no-store"}});}}

@@ -1,0 +1,44 @@
+{
+  "sjr": {
+    "year": 2025,
+    "url": "https://www.scimagojr.com/journalrank.php?year=2025&out=xls",
+    "retrievedAt": "2026-10-07T06:14:00Z",
+    "count": 30412,
+    "countryCount": 122,
+    "indonesiaCount": 314
+  },
+  "accreditationDocuments": [
+    {
+      "decisionNumber": "355/DST/D.D1/HM.01.01/2026",
+      "decisionDate": "2026-07-24",
+      "period": "Periode 3 Tahun 2025",
+      "url": "https://ylii.or.id/dokumen_download/SK_Akreditasi_Jurnal_862_DST_D.D1_HM.01.01_2026.pdf",
+      "linkType": "document-mirror",
+      "acceptedRecords": 2679,
+      "rejectedRows": 18
+    }
+  ],
+  "national": {
+    "count": 2682,
+    "publisherNames": 1439,
+    "completeDirectory": false,
+    "liveAccessCheckedAt": "2026-10-07",
+    "liveAccessStatus": "HTTP 403 at verification"
+  },
+  "profileSnapshots": {
+    "count": 3,
+    "retrievedAt": "2026-10-07T06:14:00Z",
+    "method": "Official profile contents available through the search index; not a successful direct live fetch",
+    "urls": [
+      "https://sinta.kemdiktisaintek.go.id/journals/profile/662",
+      "https://sinta.kemdiktisaintek.go.id/journals/profile/671",
+      "https://sinta.kemdiktisaintek.go.id/journals/profile/32"
+    ]
+  },
+  "crossref": {
+    "api": "https://api.crossref.org",
+    "documentation": "https://github.com/CrossRef/rest-api-doc",
+    "purpose": "Journal and article identity metadata only; no SJR or SINTA ratings",
+    "fallbackCandidates": 20
+  }
+}

@@ -1,0 +1,4 @@
+Jurnalensa source export
+Date: 2026-10-07
+Commit: 3d3cef0ddb0e6c66796d9a665062907126d2587e
+Local hosting config contains no Site identity.
