@@ -1,6 +1,6 @@
 # Identitas Jurnalensa
 
-Pengembang: **A.P.A Projek**.
+Pengembang: **A.P.A Project**.
 Kontak: kartika.230852044@student.unud.ac.id.
 
 Konsep dari pengembang: buku terbuka dengan satu bintang, mengacu pada
@@ -16,7 +16,7 @@ bawaan pada 7 Oktober 2026, satu permintaan. Prompt:
 
 ```text
 Use case: logo-brand
-Asset type: original standalone website brand emblem for Jurnalensa, an academic journal quartile and SINTA checker developed by A.P.A Projek.
+Asset type: original standalone website brand emblem for Jurnalensa, an academic journal quartile and SINTA checker developed by A.P.A Project.
 Primary request: Create one crisp distinctive symmetrical open-book emblem with a single five-point star emerging above the central spine, subtly echoing Kartika (star).
 Style/medium: Professional flat vector-style logo, restrained academic and editorial character; graceful page contours, generous negative space, bold simple geometry legible at 40 pixels.
 Composition/framing: Icon only, centered on a compact square canvas, emblem filling approximately 85% of the canvas. Strong balanced symmetry. Open book below, single star above its central spine.
