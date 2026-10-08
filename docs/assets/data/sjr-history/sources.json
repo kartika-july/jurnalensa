@@ -1,0 +1,202 @@
+{
+  "schema": 1,
+  "shardCount": 40,
+  "retrievedAt": "2026-10-07",
+  "years": [
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "journalCount": 39446,
+  "pointCount": 630293,
+  "identity": "SCImago Sourceid; no title-based joins",
+  "missingValue": "null, not zero; absence is not evidence of de-indexing",
+  "sources": [
+    {
+      "year": 1999,
+      "count": 15615,
+      "url": "https://www.scimagojr.com/journalrank.php?year=1999&out=xls",
+      "sha256": "d3778d34ed477027750750ca8252140feb32c0fb5137f6661df8b8048e776f2a"
+    },
+    {
+      "year": 2000,
+      "count": 15794,
+      "url": "https://www.scimagojr.com/journalrank.php?year=2000&out=xls",
+      "sha256": "ce9c1eb2e78eb7a34d27703ddc8c6aa710c25653250a4520b8e7ff66d31c7d80"
+    },
+    {
+      "year": 2001,
+      "count": 16162,
+      "url": "https://www.scimagojr.com/journalrank.php?year=2001&out=xls",
+      "sha256": "f1ffe555dfa4590e222a0308f0b219fee7e944385513684d42c9e431a3847274"
+    },
+    {
+      "year": 2002,
+      "count": 16951,
+      "url": "https://www.scimagojr.com/journalrank.php?year=2002&out=xls",
+      "sha256": "540fe9af91fe5032ba57ad7589a8c35ace41c291b7181020769b033c75c41768"
+    },
+    {
+      "year": 2003,
+      "count": 17121,
+      "url": "https://www.scimagojr.com/journalrank.php?year=2003&out=xls",
+      "sha256": "6c49e511609875ab05d9f95769a03c77f49dbb5fc4ac1936b0bccee614b5c4b1"
+    },
+    {
+      "year": 2004,
+      "count": 17471,
+      "url": "https://www.scimagojr.com/journalrank.php?year=2004&out=xls",
+      "sha256": "f4736bce27e571a797b53923dc36d0ae1383b3cbe7148d2530570cb3d7893d13"
+    },
+    {
+      "year": 2005,
+      "count": 17911,
+      "url": "https://www.scimagojr.com/journalrank.php?year=2005&out=xls",
+      "sha256": "8f937c384d320173be08e112843e4893f13e2398ff45e0342ebf5d4b643c2e00"
+    },
+    {
+      "year": 2006,
+      "count": 18430,
+      "url": "https://www.scimagojr.com/journalrank.php?year=2006&out=xls",
+      "sha256": "85d36df5d59c9937fcfbae4101ddd7fda3268470db2c320f992480fd6577e8ac"
+    },
+    {
+      "year": 2007,
+      "count": 18980,
+      "url": "https://www.scimagojr.com/journalrank.php?year=2007&out=xls",
+      "sha256": "2eb36f5002cdf3db88ba1bd66e791604c27315acf221f387a1acc8c614aefd5b"
+    },
+    {
+      "year": 2008,
+      "count": 19952,
+      "url": "https://www.scimagojr.com/journalrank.php?year=2008&out=xls",
+      "sha256": "6a7808920c2d433d6c701d0767b91a6800420bfaa787e3c1b0dbc29804a5d204"
+    },
+    {
+      "year": 2009,
+      "count": 20973,
+      "url": "https://www.scimagojr.com/journalrank.php?year=2009&out=xls",
+      "sha256": "31b0e0caf8ed7990b07a88c7905f2dfcf0020c7be4b636b73d646c3b77625cab"
+    },
+    {
+      "year": 2010,
+      "count": 21855,
+      "url": "https://www.scimagojr.com/journalrank.php?year=2010&out=xls",
+      "sha256": "313e0de4ea5a38b9ba484267a378775f71cb02845cb3f21c0873bcd25f2b9ac1"
+    },
+    {
+      "year": 2011,
+      "count": 22922,
+      "url": "https://www.scimagojr.com/journalrank.php?year=2011&out=xls",
+      "sha256": "a23ce82572aee5ffb0d14cf0aa157e24b814a4f2bcf058a1528b3a1ef0eaffa8"
+    },
+    {
+      "year": 2012,
+      "count": 23584,
+      "url": "https://www.scimagojr.com/journalrank.php?year=2012&out=xls",
+      "sha256": "bb0871e548a481b9f2d10364bf79b01da73d3786e9ac1f7c63f5452a359f2a79"
+    },
+    {
+      "year": 2013,
+      "count": 24164,
+      "url": "https://www.scimagojr.com/journalrank.php?year=2013&out=xls",
+      "sha256": "a1bd51440b491c533cca7f0e5b0739e7f0bbd0403c650e37578849169d56c75f"
+    },
+    {
+      "year": 2014,
+      "count": 24751,
+      "url": "https://www.scimagojr.com/journalrank.php?year=2014&out=xls",
+      "sha256": "8485904490f358906b09109d2894377f675b9c5bbb0a4c6a700152b9aa5bf4ab"
+    },
+    {
+      "year": 2015,
+      "count": 25282,
+      "url": "https://www.scimagojr.com/journalrank.php?year=2015&out=xls",
+      "sha256": "90ee9493a2771302fcb11c03fbe95deb840a94c712107fcd0b3e729541f24a8e"
+    },
+    {
+      "year": 2016,
+      "count": 25786,
+      "url": "https://www.scimagojr.com/journalrank.php?year=2016&out=xls",
+      "sha256": "d22aa565091728fcdc952dc171d60113bf25df4fb1ab08248c0a2bc4379713eb"
+    },
+    {
+      "year": 2017,
+      "count": 26368,
+      "url": "https://www.scimagojr.com/journalrank.php?year=2017&out=xls",
+      "sha256": "fd66a8f4d2f14d65b353907d326555380ff817fae04d382b51c34f63607d510d"
+    },
+    {
+      "year": 2018,
+      "count": 27446,
+      "url": "https://www.scimagojr.com/journalrank.php?year=2018&out=xls",
+      "sha256": "88ffd101a7e823cc794a7cff802b0c906d2dc05c046066e5ab7fa99ee2a293c3"
+    },
+    {
+      "year": 2019,
+      "count": 30127,
+      "url": "https://www.scimagojr.com/journalrank.php?year=2019&out=xls",
+      "sha256": "afec64c67c49a880d1383532156499e2cb622538ce3b7665e158d07558f46fd8"
+    },
+    {
+      "year": 2020,
+      "count": 29805,
+      "url": "https://www.scimagojr.com/journalrank.php?year=2020&out=xls",
+      "sha256": "61182b37489df532352ce6b26123432a440120ce8d290218003534110d0e5f80"
+    },
+    {
+      "year": 2021,
+      "count": 30401,
+      "url": "https://www.scimagojr.com/journalrank.php?year=2021&out=xls",
+      "sha256": "98286447a8fc346f4ad5baf5b3ff747a607fcbc3714a4d91a6b43ea5771985e1"
+    },
+    {
+      "year": 2022,
+      "count": 30645,
+      "url": "https://www.scimagojr.com/journalrank.php?year=2022&out=xls",
+      "sha256": "a9226c14939f145510fda78f806c968f8b962a3bb11cbf98d0d64865be2f7eb7"
+    },
+    {
+      "year": 2023,
+      "count": 30743,
+      "url": "https://www.scimagojr.com/journalrank.php?year=2023&out=xls",
+      "sha256": "5d0cd25797e6f7eb9e6fddf8cad809fabbaff1b46961145bca17dea363149524"
+    },
+    {
+      "year": 2024,
+      "count": 30642,
+      "url": "https://www.scimagojr.com/journalrank.php?year=2024&out=xls",
+      "sha256": "5054289ee269d611a63322bcc71226e8430b43e8535a1fd4577b630af5a5bd18"
+    },
+    {
+      "year": 2025,
+      "count": 30412,
+      "url": "https://www.scimagojr.com/journalrank.php?year=2025&out=xls",
+      "snapshotSha256": "34ab9f92f3f65bab51afe54ce21de09dad0dea73f18e0e96a11cff3c3eb36caf"
+    }
+  ]
+}

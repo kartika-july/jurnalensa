@@ -1,0 +1,20 @@
+{
+  "checkedAt": "2026-10-08",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "assets": [
+    {
+      "file": "jurnalensa-reading-room.webp",
+      "photographer": "Michael D Beckwith",
+      "source": "https://www.pexels.com/photo/elegant-historical-library-interior-with-bookshelves-31376610/",
+      "license": "Pexels License",
+      "publicDomain": false
+    },
+    {
+      "file": "jurnalensa-library-garden.webp",
+      "photographer": "Bogdan Krupin",
+      "source": "https://www.pexels.com/photo/flowerbeds-at-warsaw-university-library-garden-12028385/",
+      "license": "Pexels License",
+      "publicDomain": false
+    }
+  ]
+}
